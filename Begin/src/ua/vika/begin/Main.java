@@ -3,7 +3,7 @@ package ua.vika.begin;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Hello from Githab");
+		System.out.println("Hello from Githab !");
 	}
 
 }
